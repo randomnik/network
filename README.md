@@ -1,2 +1,2 @@
 # network
-네트워크 스터디
+network study
